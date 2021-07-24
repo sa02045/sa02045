@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-![]https://img.shields.io/github/followers/sa02045?style=social
+![](https://img.shields.io/github/followers/sa02045?style=social)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
