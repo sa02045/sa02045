@@ -14,7 +14,9 @@
 
 ## 활동
 
-**리액트 공식문서 번역** <sub><sup>[createElement](https://github.com/reactjs/ko.react.dev/pull/677)</sup></sub>  
+**Next.js 공식문서 번역** <sub><sup>(2023.07)</sup></sub> [useSearchParams](https://github.com/Nextjs-kr/Nextjs.kr/pull/417)</sup></sub>  
+**리액트 공식문서 번역** <sub><sup>(2023.06)</sup></sub> [createElement](https://github.com/reactjs/ko.react.dev/pull/677)</sup></sub>  
+**글쓰는 개발자 동아리 글또** <sub><sup>(2023.02~)</sup></sub>  
 **IT동아리 DDD** <sub><sup>(2022.10 ~ 2023.02)</sup></sub>  
 **프로그래머스 데브코스** <sub><sup>(2022.03 ~ 2022.08)</sup></sub>  
 **네이버 부스트캠프 6기** <sub><sup>(2021.07 ~ 2021.12)</sup></sub>  
